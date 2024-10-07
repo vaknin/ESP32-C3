@@ -1,0 +1,11 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "files.associations": {
+        "stdlib.h": "c",
+        "esp_log.h": "c",
+        "mqtt_client.h": "c",
+        "task.h": "c",
+        "temperature_sensor.h": "c",
+        "common.h": "c"
+    }
+}
